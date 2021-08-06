@@ -15,5 +15,4 @@ for(let i = 0; i < populations.length; i++) {
 
     percentages2.push(perc);
 }
-
-console.log(percentages2);
+console.log(percentages2)
